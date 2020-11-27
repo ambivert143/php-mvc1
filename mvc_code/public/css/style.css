@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.manager{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.manager form table tr th{
+    padding: 5px;
+}
