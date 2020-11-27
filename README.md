@@ -1,1 +1,2 @@
-# php-mvc1 sử dụng GET
+edit GET
+mvc_code POST
